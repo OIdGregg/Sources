@@ -1,0 +1,265 @@
+Digitalculturebooks
+
+
+
+Chapter Title: Playing into the Past:  Reconsidering the Educational Promise of Public
+History Exhibits
+
+Chapter Author(s): Brenda Trofanenko
+
+
+Book  Title: Pastplay
+
+Book  Subtitle: Teaching and  Learning History with Technology
+
+Book  Editor(s): Kevin Kee
+
+Published by:  University of Michigan Press; Digitalculturebooks
+
+Stable URL: https://www.jstor.org/stable/j.ctv65swr0.16
+
+
+JSTOR  is a not-for-profit service that helps scholars, researchers, and  students discover, use,  and  build upon a wide range of content in a trusted digital archive. We use  information technology and  tools to increase productivity  and facilitate new  forms of scholarship. For  more information about JSTOR, please  contact support@jstor.org.
+
+Your  use  of the JSTOR  archive indicates your acceptance of the Terms & Conditions of Use,  available at https://about.jstor.org/terms
+This  content is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International License (CC BY-NC-ND  4.0). To view  a copy of this license, visit
+https://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+University of Michigan Press and  Digitalculturebooks  are  collaborating with JSTOR  to digitize, preserve and  extend access  to Pastplay
+
+
+
+
+
+
+
+This content downloaded from
+24.1.220.51 on Sun, 31 Mar 2024 19:38:29 +00:00
+All use subject to https://about.jstor.org/terms 
+
+
+
+
+
+
+
+
+
+
+By Building 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This content downloaded from 
+
+
+
+
+    T W e Lve 	
+
+
+Playing into the Past
+
+Reconsidering the Educational Promise of Public History Exhibits
+
+
+Brenda Trofanenko
+
+
+
+
+Throughout its history, the public museum has been a powerful educational institution. As one of the most prestigious of public spaces where valued material objects serve as essential forms of evidence of art, culture, history, and science, the public museum mediates the knowledge produced by its exhibitions and displays with the various attending publics, as a means to define, educate, and impress its citizens.1  In public history museums, vari- ous objects, images, and narratives of the past are marshaled in the name of the nation, which collectively contribute directly to the construction and presentation of a specific history.2 Public history museums remain one of the most popular and trustworthy places from which our youth gain an under- standing of the past, and as a result, they hold much influence.3
+Recently, public history museums are moving beyond the traditional museum displays to entertain new ways of displaying objects and informa- tion. The advent of digital technologies (notably the world wide web) has prompted public history museums to reexamine their specific knowledge paradigms. The opportunities offered by Google, YouTube, and Flickr, for example, have transformed the collections and information about the col- lections into a more open flow. Visitors may now attend museums that link their collection searches to Google, placing them in a wider flow of intercon- nected cultural, political, economic, and technological ideas and resources. Through these public spaces, visitors are able to garner knowledge within wider cultural and social contexts.
+The last several years have witnessed the emergence of an increasingly robust collection of research and scholarship on museums and digital technologies.4
+
+
+257 
+258  /  Pa s T P L ay
+
+Several issues have emerged. The first, initially raised by Michelle Henning5 is whether history museums (like other disciplinary museums) are placing an increasing emphasis on their experiential and performative aspects in exhi- bitions, resulting in decreasing opportunities for public engagement with historical inquiry through identifying information from the objects, com- paring and corroborating information, and analyzing information in order to understand issues associated with historical events. The second, as noted by Fiona Cameron, addresses the current mandates and authority of many museums, which continue to posit the bricks-and-mortar museum as a privi- leged symbol of the past, of culture, and of national identity, and simplify the information each object provides the public, when various available technol- ogies could contextualize that information and support knowledge creation.6
+Museums are presently deciding whether, and to what extent, to adopt web
+2.0 platforms and practices. Adoption of these technologies could promote the public’s engagement with museum collections, and support feedback and relationships with those who have attended museums and those who share a common interest. At the same time, adoption of these technologies may mean that the museum no longer controls what knowledge is created, and is instead contributing to a more collaborative production and sharing of knowledge.7
+There is a moment when visiting history museums when the full measure of the intersection between the past and the present reveals itself. This rela- tion occurs through displayed objects entwined with narratives that inform the visitor of what has passed. Images, objects, and narratives are selected to authenticate history and to represent interconnected and divergent past events. While this complexity comes across in a simplified and objective manner through which knowledge is to be gained directly from the object, history is considered something “taken in and taken home.”8  This didactic notion ignores the contemporary debates about how knowledge is inter- actively produced, consumed, and distributed in a museum. History muse- ums grapple with contemporary debates about issues, including their public relevance and usefulness and knowledge production.9  The increased utiliza- tion of technologies raises questions for museums about how best to use social media in pedagogically sound ways that support their mandates, per- sonnel expertise, and public expectations.10 It is not enough for museums to focus specifically on the idea of “if we build it they will come” but instead, to consider how to meld their various mandates with the increasingly prolific technologies.
+When considering the playful nature of history by way of historical inquiry, as noted in chapters 6 and 7 in this volume by Sean Gouglas and Bethany Nowviskie et al., the digital media and computer technologies that 
+Playing into the Past /  259
+
+may support such inquiry are often mismatched. Certainly, the increas- ing commitment by scholars and cultural heritage institutions (including museums, archives, and libraries) to democratizing history by encouraging people to participate in preserving and presenting the past has opened up increasing access to resources. What is often missing, though, is providing opportunities for youth to work with tools in order to gain meaningfully from these resources. I am often at a loss in understanding why displays and exhibitions revert back to a didactic transmission of knowledge even when the institution itself is utilizing various technologies and the youth attending are engaged with these technologies beyond the museum. Why do museums limit the playful engagement in understanding the past when history is a dynamic and playful discipline? There are two reasons. The first is that museums attempt to advance and achieve their broad educational mission with an obvious end goal of presenting factual knowledge about the past. The second answer is related to how history is defined in history muse- ums: the traditional presentation of history in museums relies on objects and text panels. The objects serve as evidence that a past did indeed exist, while the text panels attempt to provide the narrative context of the his- torical event. The history presented in a museum is often one framed as the commodity to be taken from the museum. The knowledge gained from any object is often thought to be singular and truthful instead of multiple and open to interpretation. The public history museum’s role as a communicator of messages and the public as the recipients of those messages depend on the objects as “utterances”—instances of “speech” organized into a “gram- mar” through practices of collection and display.11  This dependence on an object-based epistemology, where “the focus is on what knowledge is gained directly from the object itself,” ignores what information can be attained within and beyond the museum through the utilization of technologies.12
+The availability of additional information that contextualizes what is placed on display can extend the knowledge drawn from the exhibition itself. It seems as though the opportunities to engage in playfulness within the museum are limited in exhibits, where the materiality within the museum carries authority as evidence and knowledge. By utilizing various technolo- gies that provide additional text, images, maps, and the like, museums can provide students with increased sources from which to understand what is on display, what relevance it may hold to historical understanding, as well as transforming the museum from an authority to a facilitator.
+I have argued elsewhere that youth have the capacity to develop a his- torical consciousness and to question what historical narratives are proffered in public history exhibits and for what purposes.13 I have also argued that museums need to allow for, and invite, opportunities for our youth to critique 
+260 /  Pa s T P L ay
+
+the exhibit itself in order to advance the museum’s educational mandate.14
+Can the knowledge gained from a history museum go beyond the didactic knowledge deemed essential? Can public history museums move away from being the sole authority of knowledge in order to advance their historical democratic sensibilities? In this chapter, I offer insight on how a group of students engaged the National Museum of American History (NMAH) in Washington, D.C., as they worked to understand the museum as an educa- tional source. This research will serve as a call to educators to reconceptualize the museum as a pedagogical site, to invite our youth to advance their own learning about the past through the interchange between the museum and technology, and to utilize the technologies beyond the museum to return to the playfulness of learning. Here I present a brief explanation of a research project involving students developing a digital mash-up, a media project mixing various texts, graphics, audio, and video, to advance their own his- torical knowledge about war and its role in U.S. identity formation.
+
+
+Research Context
+
+In the fall of 2005, I began a multiyear research project that involved work- ing with a group of grade 8 students at a charter school in Washington, D.C. The large-scale project focused on how students came to understand identity formation, how identity is defined and by whom, and how indi- vidual and collective identities are advanced through specific public institu- tions (including schools, museums, archives, and memorials) and particular school subjects (including history, literature, and biology). This particular study also provided an opportunity to examine how various technologies were utilized to  aid classroom instruction  and  student  learning, which served to satisfy one of the charter school’s main mandates. A second feature of this study was the weekly off-site activities, also a school mandate, which included (in this case) a regularly scheduled day-long experience in several of the museums within the Smithsonian Institute organization.
+During the three months I spent in the classroom, I observed the teacher working with the students to understand the association between history and identity, and the relevance of museums in defining both personal and collective identities through history. Each day I witnessed various teacher and student activities: the teacher providing directed lectures about working with source materials, the students attempting to understand what infor- mation the selected source material provided to their overarching focus, and both the teacher and the students engaging in discussions and debates about who defines what history is, when displayed in the public realm of a 
+Playing into the Past /  261
+
+museum. As well, I observed how the students utilized various social media and web-based technologies in their own classroom learning opportunities, and how the teacher explained the ways in which technology served various pedagogical purposes.
+The teacher’s own educational background as a historian and as an educa- tor ensured that the students received instruction about history’s disciplinary elements (notably: close reading of the source, textual analysis, identifying corroborative information, and narrative structure and argument). She also provided learning activities she believed were pedagogically sound, which allowed the students to understand the art of history instead of solely learn- ing historical fact (specifically the identification, analysis, and comparison of source materials to formulate an argument). This commitment was evident in various ways: in the classroom activities undertaken prior to the museum visits; the weekly museum visits that extended throughout the school day; and the post-visit classroom activities (which resulted in the production of a five-minute mash-up video that incorporated digital archival documents, music, altered photographs, and exhibition objects that highlighted the stu- dents’ representation of a collective U.S. identity). These mash-ups provided the students with an opportunity to present their own meta-narratives of the museum’s representation of a collective identity vis-à-vis war and military engagement. The students visited the National Museum of American His- tory to understand its role in defining both personal and collective identi- ties, with weekly dedicated time spent in The Price of Freedom: Americans at War exhibit.15
+Prior to attending the exhibit, the students debated the relationship between history and identity and the purpose museums serve to both. Sev- eral open and frank discussions about the learning that occurred (or not) within a museum also took place prior to and throughout the unit. The teaching directed the students to examine selected objects and “read” the information easily obtained from the label, consider how this information contributed to the larger exhibition narrative, and argue its broader applica- tion to identity formation. The teacher-student interactions also focused on how the students could use various technologies (Google, YouTube, Flickr, digital collections from the Smithsonian Institute, the Library of Congress, the National Archives and Records, for example) to gain information that would inform their mash-up videos.
+Students were evaluated on their understanding of history at several stages during the study, including student engagement with digital technol- ogies (as directed by the school’s charter-mandate), informal conversations between the teacher and students about their works in progress, written justification of selected topic and suitable sources, and the final mash-up. 
+262 /  Pa s T P L ay
+
+The students were assessed on basic historic information obtained from the exhibit, how their selected exhibition element (an object, theme, or nar- rative) aligned with their mash-up theme, and the support of their argu- ment of the museum’s role in identity formation. The evaluation included classroom-based examinations and grading of the final project. While the teacher did not assume all students could engage with technologies to an equal skill and complexity level, she knew individual student abilities (and organized the student groups to ensure various abilities).
+
+
+Research Results
+
+The NMAH, like other museums, is a “guardian of important things,” of objects and material goods displayed in order to advance their educational purpose of providing experiences from which the attending public can learn about the past.16 The objects assume an object-based epistemology; each is readily conceptualized and offers, as Henrietta Riegel noted, “a lesson at a glance, a confirmation of actual life as documented and preserved.”17   The physical objects serve as the evidence on which history depends for verifica- tion, and their presence in the museum provides the authority for museums to tell a their selected story of a past. Andreas Huyssen, for example, argues that “one reason for the new found strength of the museum in the public sphere may have something to do with the fact that it offers the material quality of the object.”18
+This point was not lost on the students. When asked about the museum’s educational role, a student named Stuart replied that this exhibit was “more than a collection of guns.” But he quickly followed up by saying that “you can learn more about guns, if you really, really want to.” He listed, and then showed, the various sites where he and his group obtained information and noted the ease of a Google search and the amount of sources from which he may draw. He acknowledged openly the necessity of objects as the basis of learning within the museum, but also noted the limited information pro- vided by each object within the exhibit. His group used guns as a point of reference for their mash-up. He also spoke about how his group, when bringing in computers to the exhibit, would access sites to present immedi- ate additional information, which would then have to be analyzed as to their relevance and dependability.
+Stuart and his fellow group members (Lisa, Luci, and Paulo) spoke at length about the limits of the exhibit and the information gained from the objects. Lisa stated that the obvious knowledge gained from the object “depends on the label,” while Paulo noted that  people bring their own 
+Playing into the Past /  263
+
+knowledge to the exhibit. The exchange among the group members moved to  how they used various technologies through  their  assignment. They included videos they completed of the exhibit itself, photos of the material objects displayed, pictures of the text panels and tags, and clips from movies that featured guns (specifically war movies and westerns). Their mash-up, which they called How the West Was One, centered on the idea of guns as a metaphor for bringing together and dispersing people.
+Perhaps the most cogent point in the student discussions concerned how history is presented in the NMAH  through the displayed objects found within a temporal 3D space organized around a time line. The students col- lectively highlighted how objects considered relevant to an exhibition were arranged near key dates to illustrate the points on the time line and to fit neatly into the chronology of events. Lisa pointedly argued, following Alun Munslow’s claim, that history is “assembled as a string of selected and linked events and recounted in the shape of a narrative.”19 The NMAH  follows Munslow’s claim that the traditional exhibition standard is to “turn the dis- played objects into something else [a narrative]—that which we call his- tory.”20 Lisa echoed this point when she stated how “boring” she found the display of objects. She extended this point by noting how each object forms an “incomplete sentence in a historical narrative” and served to contribute to “an otherwise really, really boring exhibit.”
+This expression of boredom about the exhibit is akin to the commonly held belief that history is a subject that is uninviting and dull. When pressed further about this detail, the four students spoke openly about their own knowledge of the playfulness of history, noting specifically how history “can serve as a game where you can learn without thinking that you are learning.” Paulo further explained, when pressed, that the element of play within his- tory is “finding knowledge you never knew, is like going through a maze. . . . You know, when you hit a wall you have to rethink everything. You bring in more information to understand and get past the block . . . and then you have to decide if the knowledge is necessary or useful.” The students collec- tively suggested such playfulness was absent in the exhibit, even in those sec- tions that had a technological base (such as the expansive television monitors featuring broadcasts of the Vietnam War). It was the mash-up assignment that provided the students with the challenge of engaging in the art of his- tory through a commonly utilized media.
+While many would consider the student mash-up videos to be a playful example of how students could advance their technological skills, I argue that it allowed the students to rethink how they learn about the past. Their interaction with various technologies worked to  build an expression of their knowledge about the relationship between history and identity. The 
+264 /  Pa s T P L ay
+
+mash-up itself, while clearly an activity to engage the students, was effective because much of the content presented works through a combination of knowing something new (in the case of Stuart’s group, how the identity of American men is one of strength and hardiness) with a more interesting way of presenting the information. The mash-up presented a combination of aesthetic appreciation (including a sepia tone along with computer-created graphics of blood) and the cultural memories of the West as a nostalgic time and place. The mash-up included a sound track containing Western background music (from, no less, The Magnificent Seven and How the West Was Won), photographs of the students themselves inserted into the archival documents and exhibit, and the students’ physical presence in the museum exhibit. Accompanying the mash-up were images of guns displayed in the museum, transposed pictures of massive U.S. casualties from the Vietnam War, and a film clip of a confrontation between natives and non-natives. Will these students ever attend another museum and know that they can gain more information about what they see in front of them through the digital realm? I suspect so. And I also suspect that they have some sense that learning the past can be fun, and that museums do have a particular purpose. As one of them stated: “I know they [the museum] has all of these objects. I just don’t know what they want us to learn about the objects.”
+
+
+Discussion
+
+Commentators have lately expressed concern about the apparent lack of his- torical knowledge held by our youth. In their arguments about the short- comings of public education in the United States, education policy makers frequently use standardized test results (specifically the National Assessment of Educational Progress results) to show the limited knowledge students possess. The response to this lack of knowledge was a movement toward widespread utilization of primary source materials and the dependence on document-based questioning as the basis for history education. By using pri- mary and secondary sources, it continues to be argued, students can develop historical knowledge by engaging in the act of history.21 The focus on the development of content knowledge (the “what” of history) and procedural skills (the “how” of history) can be included in the larger issues of asking why particular representations are presented within the museum. These stu- dents came to understand how knowledge is constructed in the museum, as well as how knowledge can be reconstructed using digital technologies. Their goal was to create a mash-up that included a narrative about history and national identity. They learned many new technological skills. They not 
+Playing into the Past /  265
+
+only gained a rudimentary skill set related to the use of iMovie, but they also acquired and presented a mature understanding of where other information may be found. To formulate their arguments about history and museums, they identified and located additional information necessary for their argu- ment. Although some students in this study saw the formation of identity through history in fairly narrow terms—that history itself was a static ele- ment without opportunity to change—most were engaged in a more critical process consistent with the concept of historical consciousness, that is, the ability to understand through critique how a particular historical representa- tion serves specific purposes.
+The use of technology within the public history museum appears to aid museums in achieving their educational mandates. Researchers within the museum studies discipline over the last five to six years have investigated how museums are utilizing web 2.0 technologies, including social media such as Twitter and Flickr.22 From the development of digital collections, to accessing information through museum dashboards, through specifically developed smartphone apps (to name only a few), museum personnel are identifying technology that may serve a useful purpose for the museum. But the students whom I studied expressed a critique of the technology used within the exhibit, which we should take as a warning about the educational potential of technology. The students gathered information additional to that presented by the exhibition labels and text panels by producing digital media files creating their own narratives about the exhibit. The additional information gathered allowed for a more open and flexible collection of knowledge specific to the interests of the students. When questioned by the museum personnel about their lack of engagement with the various technol- ogies incorporated into the exhibit itself, the students cogently argued that the digital media within the exhibit reflected the museum’s current techno- logical focus (which assumed such technologies would be a draw for youth to learning from the exhibit). Yet, the students also thought that the technology within the exhibits (limited to looped films and still photographs displayed on walls) did not specifically contribute to furthering their knowledge. The students realized that the History Channel and a local independent media company produced many of the media elements within the museum (indi- viduals within the videos were actors and not “real” Medal of Honor recipi- ents), and they spoke critically about the use of a perceived authentic award to gain an emotional tie to the exhibits’ larger message (of connecting the necessity of conflict to that of freedom). Although the museum did claim to engage with technology primarily in the form of media, such technologies were as didactic and directed as any of the objects, text panels, and labels. The students used other sources available online and drawn from other sites 
+266 /  Pa s T P L ay
+
+beyond the museum while wondering about the museum’s parallel online exhibit. The students considered the online exhibit a missed opportunity in accessing additional information about the exhibit, the wars included in the exhibit, and the objects constituting each display. Instead, the students’ awareness of the site was apparent during the research when they discovered it through an online search.
+
+
+Conclusions
+
+The public history museum continues to grapple with ensuring that  its educational relevance continues as it addresses the challenges of incorporat- ing various technologies into its public mandates. Not only are museums dealing with making information about their objects and exhibits open and accessible, they are also dealing with a public who comes to expect oppor- tunity to find such technologies available within exhibits. This change chal- lenges educators and museums to rethink how historical inquiry in public history museums can be supported through the use of technology. How can museums provide opportunities within their exhibition spaces (and on dedicated websites) to engage in historical inquiry that moves beyond text labels and objects? How can museums come to support exhibits that actively engage students to critique what is presented and develop an understanding about the importance of such a presentation? The challenge facing public history museums is working toward changing their own (and the public’s) conception of the museum as a knowledge authority. Instead, I suggest, there is a need for museums to consider themselves as brokers of knowledge and that such knowledge can come through engagement with technology within and beyond the museum.
+Although previous research has demonstrated that our youth may be actively involved in appropriating or resisting particular historical narratives, many of those involved in this study were engaged in a more complex pro- cess. The four students I interviewed and observed clearly pointed out the limitations within the museum that inhibited their understanding about the past. The knowledge they developed in the classroom led them to seek additional information when in the museum, and they struggled to integrate new ideas they encountered in each. Although some of the students simply accepted the history narrative displayed in the museum, most were aware that the objects and the narratives were used for advancing a particular collective identity. By being aware that by utilizing various technologies, they came to appreciate the fact that their own education exposed them to the playfulness technology offered and appreciated the fact that technology could encourage 
+Playing into the Past /  267
+
+a more critical historical perspective, particularly by exposing them to source materials beyond the museum. Even as they sought to expand their own historical viewpoints, however, they were willing to acknowledge the limited information presented by the museum. Both the highly contentious nature of historical representations in the United States and the factual empha- sis of the school curriculum may contribute to students simply accepting or rejecting historical narratives based on personal experience, preferences, or prior knowledge. This points, then, to the value of historical study that focuses on students’ utilization of technology to gain experience working with tools (which may well be computer based) in order to enrich their own historical understanding through digital media. I am not suggesting that every student attending a public museum ought to be engaged in a mash-up experience. What I am suggesting is that we need to harness the interest students do hold in history to activities that will fashion a set of skills and knowledge. By asking our youth to be critical of the history presented in public museums is not to ignore the importance each institution holds in providing such information. Can our youth problem solve, communicate, or be creative and innovative by attending a history museum? I cannot say for certain. But I can suggest the need for public history museums to provide opportunities for those youth who are interested in knowing and learning more about the past, something that can easily be done within museums with the open web access many provide their public. Those opportunities can be vehicles for bringing these youth into rich conversations about our past, about museums and education, and about how their skills and knowl- edge are developed outside of the traditional classroom.
+
+
+noTes
+
+1. Didier Maleuvre,  Museum Memories: History, Technology, Art (Palo Alto, Calif.: Stanford University Press, 1999), 10.
+2. Gustavo Buntinx et al., eds., Museum  Frictions: Public Cultures/Global Transfor- mations (Durham, N.C.: Duke University Press, 2006), 1–31.
+3. Roy Rosenzweig and David P. Thelen, Presence of the Past: Popular Uses of His- tory in American Life (New York: Columbia University Press, 1998), 106.
+4. See, for example, www.museumsandtheweb.com,  www.mcn.edu, and www
+.hastac.org,  accessed November 28, 2012. Each of these sites provides an archive of scholarship and research that traces the utilization of technology by museums.
+5. Michelle  Henning, “New Media,” in A Companion to Museum Studies, ed. Sha- ron Macdonald (Oxford: Blackwell, 2006), 302–18.
+6. Scholars have examined how technology impacts the ways in which museums represent information. See, for example, Paul Marty, “Information Representation: Representing Museum Knowledge,” in Museum Informatics, ed. Paul F. Marty and Katherine Burton Jones (New York: Routledge, 2008), 29–34. 
+268 /  Pa s T P L ay
+
+7. See Nancy Proctor, “Museum as Platform, Curator as Champion, in the Age of Social Media,” Curator 53, no. 1 (2010): 36–42, for examples of institutions that have utilized web technologies for user-generated content, crowdsourcing, and collabora- tive initiatives. See also Nik Honeysett and Michael Edsen, “Philosophical Leadership Needed for the Future: Digital Humanities Scholars in Museums,”  Journal of Digital Humanities  1, no. 1 (April 2012), accessed November 28, 2012, http://journalofdigital humanities.org/1-1/philosophical-leadership-needed-for-the-future/.
+8. Mieke Bal, “Telling, Showing, Showing Off,” in A Mieke Bal Reader (Chicago: University of Chicago  Press, 1991), 173.
+9. Fiona Cameron, “Beyond the Cult of the Replicant—Museums and Historical Digital Objects: Traditional Concerns, New Discourses,” in Theorizing Digital Cul- tural Heritage: A Critical Discourse, ed. Fiona Cameron and Sarah Kenderdine (Cam- bridge, Mass.: MIT Press, 2007), 49–76. As Simon Knell notes in Museums and the Future of Collecting (London: Ashgate, 2004), as museums have become knowledge institutions there has been a decline in the prominence of objects that were once fea- ture attractions. See also Sharon Macdonald, “Collecting Practices,” in her A Compan- ion to Museum Studies (London: Routledge, 2006), on changes to collecting practices of museums.
+10. See, for example, Ross Parry’s Recoding the Museum: Digital Heritage and Tech- nologies of Change (London: Routledge, 2007), and Museums in the Digital Age (Leices- ter: University of Leicester Press, 2010); Fiona Cameron and Sarah Kenderdine, eds., Theorizing Digital Cultural Heritage: A Critical  Discourse (Cambridge, Mass.: MIT Press, 2010); and Loic Tallon and Kevin Walker, eds., Digital Technologies  and the Museum Experience (Lanham, Md.: AltaMira, 2008).
+11. Eilean Hooper-Greenhill, The Educational  Role of the Museum, 2nd ed. (Lon- don: Routledge, 1999), 5–8.
+12. Steven Conn, Museums and American  Intellectual Life, 1876–1927  (Chicago: University of Chicago Press, 1998), 100.
+13. Brenda M. Trofanenko, “More Than a Single Best Narrative: Collective His- tory and the Transformation of Historical Consciousness,” Curriculum Inquiry 38, no.
+5 (2008):  579–603.
+14. Brenda M. Trofanenko, “The Educational Promise of Public History Museum
+Exhibits,”  Theory and Research in Social Education  38, no. 2 (2010): 270–88.
+15. The exhibit sought to provide a “comprehensive and memorable overview of America’s military experience and the central role it has played in our national life” (Smithsonian Institute, 2005). Although the exhibit closed on September  5, 2006, the online component remains a popular educational resource.
+16. Susan M. Pearse, “Objects in the Contemporary Construction of Personal Cul- ture: Perspectives Relating to Gender and Socio-Economic Class,” Museum Manage- ment and Curatorship 17, no. 3 (1999):  223.
+17. Henrietta Riegel, “Into the Heart of Irony: Ethnographic Exhibitions and the Politics of Difference,” in Theorizing Museums, ed. Sharon Macdonald and Gordon Fyfe (Oxford:  Blackwell, 1996), 87.
+18. Andreas  Huyssen, Twilight Memories: Marking Time in a Culture of Amnesia
+(London: Routledge, 1995), 255.
+19. Alun Munslow, “Aesthetic Turn,” in idem, The Routledge Companion  to Histori- cal Studies, 2nd ed. (London: Routledge, 2006), 22.
+20. Munslow, 22. 
+Playing into the Past /  269
+
+21. Bruce Van Sledright,  The Challenge of Rethinking History Education: On Prac- tices, Theories, and Policies (New York: Routledge, 2011).
+22. To see the extent of research utilizing various technologies, access the collection of online papers presented at the annual Museums and the Web conference, accessed July 31, 2012, www.archimuse.com.
